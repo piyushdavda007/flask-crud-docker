@@ -1,4 +1,14 @@
-## Git clone the application
+## What is the project about 
+
+```text
+
+    First I made flask crud app using REST api.
+
+    Then in RHEL8 I made docker image for runnig flask app
+	
+    all the necessary commands given below.
+
+```
 
 ## Create a virtual environment inside the application 
 
